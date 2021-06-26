@@ -12,7 +12,7 @@
 
 # Overview About Me:-
 
-- 🔭 I’m currently a Student Member of  <strong>IFOA,UK</strong>Actuarial Science 
+- 🔭 I’m currently a Student Member of  <strong>IFOA,UK</strong> Actuarial Science 
 
 - 🤔 My recently completed project is [SHAPE AI](https://github.com/tanmayjain999/SHAPE-AI-PYTHON-AND-DATA-ANALYTICS-)
 
