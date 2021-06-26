@@ -22,4 +22,9 @@
 
 - 📫 How to reach me **tanmayjain508@gmail.com** 
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=tanmayjain999&theme=highcontrast&show_icons=true&count_private=true&layout=compact)
+
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayjain999&theme=highcontrast&layout=compact) 
+
 <h1 align="center"> THANKS FOR VISITNG MY PROFILE !! </h1>
