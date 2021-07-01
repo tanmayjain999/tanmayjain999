@@ -12,7 +12,7 @@
 
 # ABOUT ME :-
 - 🔭 I’m currently a Student Member of  <strong>IFOA,UK</strong>(Actuarial Science)
-- 🤔 My recently completed project is [SHAPE AI](https://github.com/tanmayjain999/SHAPE-AI-PYTHON-AND-DATA-ANALYTICS-)
+- 🤔 My recently completed project is [SHAPE AI](https://github.com/tanmayjain999/SHAPE-AI-PYTHON-AND-DATA-ANALYTICS-) & [Udemy Python](https://github.com/tanmayjain999/Python-Masters-Udemy-)
 - 👨‍💻 Some of my projects are available at my [Github](https://github.com/tanmayjain999?tab=repositories)
 - 👨‍💻 Harvard universiy AI course [Cs50AI](https://github.com/tanmayjain999/HARVARD-UNIVERSITY-PYTHON-AND-AI-CS50-)
 - 📝 My linkedin profile [linkedin](https://www.linkedin.com/in/tanmay-jain-108108108/)
