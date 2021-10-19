@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Tanmay Jain 🤓  </h1>
 <h3 align="center"> || Actuarial Science & Data analytics Student ||   </h3> 
 
-<p align="center">My name is Tanmay Jain. I am currently pursing Actuarial Science From IFOA,UK with it I am Doing my Bachelor's in Statistics,Economics and Mathmeatics from University of Rajasthan 2022 Batch. I Have done My SSC and HSC from Ryan international school,Jaipur </p>
+<p align="center"> currently pursing Actuarial Science From IFOA,UK 
+Triple Major in Statistics , Economics and Mathematics , RU'22 </p>
 <p align="center"> 
 •	Basic Knowledge in MS EXCEL/VBA/Macros,R programming,Python,SQL, Computer Vision , Power BI , Tableau Software Financial modelling </p>
 <p align="center"> •	Excellent Data analytical, problem solving and interpretational skills </p>
